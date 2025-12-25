@@ -33,9 +33,12 @@ Frontend    : React | HTML | CSS | JavaScript
 Database    : SQL Server | MySQL
 Mindset     : Learn • Build • Improve
 ```
+## 🛠 Tech Stack
 
-🛠 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,sql,git,github,vscode&theme=light" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,aspnet,sqlserver,mysql,git,github,postman,vscode&theme=light" />
+</p>
+
 ⚡ GitHub Stats
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=11pranav&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=11pranav&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11pranav&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 🏆 GitHub Trophies
